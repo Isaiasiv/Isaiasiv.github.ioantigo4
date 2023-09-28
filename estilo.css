@@ -1,0 +1,55 @@
+#css{
+    background-color: rgb(241, 233, 178);
+    padding: 0 -15px -15px -15px;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    min-width: 320px;
+}
+h1{
+    text-align: center;
+    padding: 0 20px 20px 20px;
+}
+h3{
+    font-face: impact;
+    padding: 0 20px 20px 20px;
+}
+
+
+
+p{
+    padding: 0 20px 40px 40px;
+}
+#Cssft{
+    padding: 0 20px 20px 150px;
+}
+#parte1{
+    background-color: aliceblue;
+    text-align: center;
+    color: #36312c;
+    font-size:16px;
+    padding: 0 20px 20px 20px;
+}
+#parte2{
+    background-color: blueviolet;
+    text-align: left;
+    font-size: 16px;
+    padding: 0 20px 20px 20px;
+}
+#voltar{
+    text-align: center;
+    font-size: 18px;
+}
+#fthcj{
+    width: 400px;
+    border: 5px solid black;
+}
+#final{
+    max-width: 100%;
+    height: auto;
+    padding: 0 -15px -15px -15px;
+}
